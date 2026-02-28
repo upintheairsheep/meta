@@ -15,3 +15,5 @@
 <a href="https://github.com/meta">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meta&layout=compact" />
 </a>
+
+I am not linked to Meta Platforms in any way. If you came here to see the company, see [https://github.com/facebook here]
